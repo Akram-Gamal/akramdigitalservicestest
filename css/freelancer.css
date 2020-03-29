@@ -399,7 +399,7 @@ h6, .h6 {
 
 .lead {
   font-size: 1.25rem;
-  font-weight: 300;
+  font-weight: 300 !important;
 }
 
 .display-1 {
@@ -9846,8 +9846,4 @@ form .row:first-child .floating-label-form-group {
 
 .copyright {
   background-color: #1a252f;
-}
-
-.lead {
-  font-weight:300;
 }
